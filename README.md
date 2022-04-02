@@ -3,6 +3,7 @@ This repository is intended to provide DNS lists from the domains which consoles
 
 ## Available lists
 **[RECOMMENDED]** All playstation: https://raw.githubusercontent.com/itsCodeAlchemist/pihole-jailbreak/main/playstation
+<br />
 **[RECOMMENDED]** All nintendo: SOON
 
 * Only playstation.net: https://raw.githubusercontent.com/itsCodeAlchemist/pihole-jailbreak/main/domains/playstation/playstation-net

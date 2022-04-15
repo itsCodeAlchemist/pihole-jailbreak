@@ -8,42 +8,42 @@
 # Date: 11 April 2022
 # Number of unique domains: 3,939
 #
-# Fetch the latest version of this file: https://github.com/itsCodeAlchemist/pihole-jailbreak/nintendo
+# Fetch the latest version of this file: https://raw.githubusercontent.com/itsCodeAlchemist/pihole-jailbreak/main/nintendo
 # Project home page: https://github.com/itsCodeAlchemist/pihole-jailbreak
 #
 # Included lists:
-# - https://github.com/itsCodeAlchemist/pihole-jailbreak/domains/nintendo/nintendo-net
-# - https://github.com/itsCodeAlchemist/pihole-jailbreak/domains/nintendo/nintendowifi-net
-# - https://github.com/itsCodeAlchemist/pihole-jailbreak/domains/nintendo/nintendo-europe-com
-# - https://github.com/itsCodeAlchemist/pihole-jailbreak/domains/nintendo/nintendo-at
-# - https://github.com/itsCodeAlchemist/pihole-jailbreak/domains/nintendo/nintendo-be
-# - https://github.com/itsCodeAlchemist/pihole-jailbreak/domains/nintendo/nintendo-ch
-# - https://github.com/itsCodeAlchemist/pihole-jailbreak/domains/nintendo/nintendo-co-jp
-# - https://github.com/itsCodeAlchemist/pihole-jailbreak/domains/nintendo/nintendo-co-kr
-# - https://github.com/itsCodeAlchemist/pihole-jailbreak/domains/nintendo/nintendo-co-nz
-# - https://github.com/itsCodeAlchemist/pihole-jailbreak/domains/nintendo/nintendo-co-uk
-# - https://github.com/itsCodeAlchemist/pihole-jailbreak/domains/nintendo/nintendo-co-za
-# - https://github.com/itsCodeAlchemist/pihole-jailbreak/domains/nintendo/nintendo-com
-# - https://github.com/itsCodeAlchemist/pihole-jailbreak/domains/nintendo/nintendo-com-au
-# - https://github.com/itsCodeAlchemist/pihole-jailbreak/domains/nintendo/nintendo-com-hk
-# - https://github.com/itsCodeAlchemist/pihole-jailbreak/domains/nintendo/nintendo-cz
-# - https://github.com/itsCodeAlchemist/pihole-jailbreak/domains/nintendo/nintendo-de
-# - https://github.com/itsCodeAlchemist/pihole-jailbreak/domains/nintendo/nintendo-dk
-# - https://github.com/itsCodeAlchemist/pihole-jailbreak/domains/nintendo/nintendo-es
-# - https://github.com/itsCodeAlchemist/pihole-jailbreak/domains/nintendo/nintendo-fi
-# - https://github.com/itsCodeAlchemist/pihole-jailbreak/domains/nintendo/nintendo-fr
-# - https://github.com/itsCodeAlchemist/pihole-jailbreak/domains/nintendo/nintendo-gr
-# - https://github.com/itsCodeAlchemist/pihole-jailbreak/domains/nintendo/nintendo-hu
-# - https://github.com/itsCodeAlchemist/pihole-jailbreak/domains/nintendo/nintendo-it
-# - https://github.com/itsCodeAlchemist/pihole-jailbreak/domains/nintendo/nintendo-jp
-# - https://github.com/itsCodeAlchemist/pihole-jailbreak/domains/nintendo/nintendo-nl
-# - https://github.com/itsCodeAlchemist/pihole-jailbreak/domains/nintendo/nintendo-no
-# - https://github.com/itsCodeAlchemist/pihole-jailbreak/domains/nintendo/nintendo-pt
-# - https://github.com/itsCodeAlchemist/pihole-jailbreak/domains/nintendo/nintendo-ru
-# - https://github.com/itsCodeAlchemist/pihole-jailbreak/domains/nintendo/nintendo-se
-# - https://github.com/itsCodeAlchemist/pihole-jailbreak/domains/nintendo/nintendo-tw
-# - https://github.com/itsCodeAlchemist/pihole-jailbreak/domains/nintendo/nintendoswitch-cn
-# - https://github.com/itsCodeAlchemist/pihole-jailbreak/domains/nintendo/nintendoswitch-com
+# - https://raw.githubusercontent.com/itsCodeAlchemist/pihole-jailbreak/main/domains/nintendo/nintendo-net
+# - https://raw.githubusercontent.com/itsCodeAlchemist/pihole-jailbreak/main/domains/nintendo/nintendowifi-net
+# - https://raw.githubusercontent.com/itsCodeAlchemist/pihole-jailbreak/main/domains/nintendo/nintendo-europe-com
+# - https://raw.githubusercontent.com/itsCodeAlchemist/pihole-jailbreak/main/domains/nintendo/nintendo-at
+# - https://raw.githubusercontent.com/itsCodeAlchemist/pihole-jailbreak/main/domains/nintendo/nintendo-be
+# - https://raw.githubusercontent.com/itsCodeAlchemist/pihole-jailbreak/main/domains/nintendo/nintendo-ch
+# - https://raw.githubusercontent.com/itsCodeAlchemist/pihole-jailbreak/main/domains/nintendo/nintendo-co-jp
+# - https://raw.githubusercontent.com/itsCodeAlchemist/pihole-jailbreak/main/domains/nintendo/nintendo-co-kr
+# - https://raw.githubusercontent.com/itsCodeAlchemist/pihole-jailbreak/main/domains/nintendo/nintendo-co-nz
+# - https://raw.githubusercontent.com/itsCodeAlchemist/pihole-jailbreak/main/domains/nintendo/nintendo-co-uk
+# - https://raw.githubusercontent.com/itsCodeAlchemist/pihole-jailbreak/main/domains/nintendo/nintendo-co-za
+# - https://raw.githubusercontent.com/itsCodeAlchemist/pihole-jailbreak/main/domains/nintendo/nintendo-com
+# - https://raw.githubusercontent.com/itsCodeAlchemist/pihole-jailbreak/main/domains/nintendo/nintendo-com-au
+# - https://raw.githubusercontent.com/itsCodeAlchemist/pihole-jailbreak/main/domains/nintendo/nintendo-com-hk
+# - https://raw.githubusercontent.com/itsCodeAlchemist/pihole-jailbreak/main/domains/nintendo/nintendo-cz
+# - https://raw.githubusercontent.com/itsCodeAlchemist/pihole-jailbreak/main/domains/nintendo/nintendo-de
+# - https://raw.githubusercontent.com/itsCodeAlchemist/pihole-jailbreak/main/domains/nintendo/nintendo-dk
+# - https://raw.githubusercontent.com/itsCodeAlchemist/pihole-jailbreak/main/domains/nintendo/nintendo-es
+# - https://raw.githubusercontent.com/itsCodeAlchemist/pihole-jailbreak/main/domains/nintendo/nintendo-fi
+# - https://raw.githubusercontent.com/itsCodeAlchemist/pihole-jailbreak/main/domains/nintendo/nintendo-fr
+# - https://raw.githubusercontent.com/itsCodeAlchemist/pihole-jailbreak/main/domains/nintendo/nintendo-gr
+# - https://raw.githubusercontent.com/itsCodeAlchemist/pihole-jailbreak/main/domains/nintendo/nintendo-hu
+# - https://raw.githubusercontent.com/itsCodeAlchemist/pihole-jailbreak/main/domains/nintendo/nintendo-it
+# - https://raw.githubusercontent.com/itsCodeAlchemist/pihole-jailbreak/main/domains/nintendo/nintendo-jp
+# - https://raw.githubusercontent.com/itsCodeAlchemist/pihole-jailbreak/main/domains/nintendo/nintendo-nl
+# - https://raw.githubusercontent.com/itsCodeAlchemist/pihole-jailbreak/main/domains/nintendo/nintendo-no
+# - https://raw.githubusercontent.com/itsCodeAlchemist/pihole-jailbreak/main/domains/nintendo/nintendo-pt
+# - https://raw.githubusercontent.com/itsCodeAlchemist/pihole-jailbreak/main/domains/nintendo/nintendo-ru
+# - https://raw.githubusercontent.com/itsCodeAlchemist/pihole-jailbreak/main/domains/nintendo/nintendo-se
+# - https://raw.githubusercontent.com/itsCodeAlchemist/pihole-jailbreak/main/domains/nintendo/nintendo-tw
+# - https://raw.githubusercontent.com/itsCodeAlchemist/pihole-jailbreak/main/domains/nintendo/nintendoswitch-cn
+# - https://raw.githubusercontent.com/itsCodeAlchemist/pihole-jailbreak/main/domains/nintendo/nintendoswitch-com
 # ===============================================================
 #
 # ===========================

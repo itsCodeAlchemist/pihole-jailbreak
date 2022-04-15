@@ -8,12 +8,12 @@
 # Date: 31 March 2022
 # Number of unique domains: 3,685
 #
-# Fetch the latest version of this file: https://github.com/itsCodeAlchemist/pihole-jailbreak/playstation
+# Fetch the latest version of this file: https://raw.githubusercontent.com/itsCodeAlchemist/pihole-jailbreak/main/playstation
 # Project home page: https://github.com/itsCodeAlchemist/pihole-jailbreak
 #
 # Included lists:
-# - https://github.com/itsCodeAlchemist/pihole-jailbreak/domains/playstation/playstation-com
-# - https://github.com/itsCodeAlchemist/pihole-jailbreak/domains/playstation/playstation-net
+# - https://raw.githubusercontent.com/itsCodeAlchemist/pihole-jailbreak/main/domains/playstation/playstation-com
+# - https://raw.githubusercontent.com/itsCodeAlchemist/pihole-jailbreak/main/domains/playstation/playstation-net
 # ===============================================================
 #
 # ===========================
